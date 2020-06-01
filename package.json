@@ -1,0 +1,11 @@
+{
+  "name": "kitilenbot-master",
+  "version": "1.0.0",
+  "description": "This is a simple bot made with Discord.js. Still in development, but usable. Prefix is >>",
+  "main": "app.js",
+  "scripts": {
+    "test": ">>ping"
+  },
+  "author": "Ash_#0001",
+  "license": "ISC"
+}
